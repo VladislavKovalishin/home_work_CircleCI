@@ -47,4 +47,3 @@ def max_of_list(lst):
     if not lst:
         raise ValueError("Empty list!")
     return max(lst)
-
